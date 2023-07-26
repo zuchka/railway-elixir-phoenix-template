@@ -1,7 +1,7 @@
 # nixpacks.toml
 
 [phases.setup]
-nixPkgs = ['elixir_1_15']
+nixPkgs = ['pkgs.elixir_1_15']
 
 # [phases.build]
 # cmds = ['mix release']

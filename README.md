@@ -1,5 +1,9 @@
 # Railway
 
+- [Nixpacks Elixir](https://nixpacks.com/docs/providers/elixir)
+
+# Phoenix
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
