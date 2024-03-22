@@ -3,6 +3,9 @@
 [phases.setup]
 nixPkgs = ['...', 'pkgs.elixir_1_15']
 
+[phases.build]
+cmds = ["mix compile", "mix assets.deploy"]
+
 # [phases.build]
 # cmds = ['mix release']
 
